@@ -1,2 +1,1 @@
-# JavaScriptTemplateRepo
-A Java Script Template 
+# Node Js template
